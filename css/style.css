@@ -890,6 +890,8 @@ template {
   border: none;
   background-color: #ec1f46;
   color: #fff;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
 }
 
 .reviews {
