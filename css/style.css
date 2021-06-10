@@ -1115,6 +1115,10 @@ template {
   line-height: 20px;
 }
 
+.card__fix {
+  width: 161px;
+}
+
 .card__button {
   font-style: normal;
   font-weight: 600;
