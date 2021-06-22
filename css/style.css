@@ -1318,6 +1318,16 @@ template {
   color: #E0E0E0;
 }
 
+.footer__bi {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 690px;
+}
+
 @media (max-width: 1200px) {
   .container {
     max-width: 960px;
